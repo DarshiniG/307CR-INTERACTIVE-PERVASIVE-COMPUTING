@@ -1,0 +1,159 @@
+aside {
+	
+	width:300px;
+	float:right;
+	padding-top:20px;
+	padding-left:10px;
+	padding-right:10px;
+	margin:80px 20px 20px;
+	padding-bottom:20px;
+	background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+    opacity: 0.9;
+    position: center;
+    color: #ffffff; 
+	border-color:#550085;
+}
+
+.navbar {
+	font-family:"Snell Roundhand", cursive, Georgia, Garamond, ‘Times New Roman’, Times, sans-serif;
+	color:black;
+	font-size:14pt;
+	text-shadow: 0px 0px 0px blue;	
+}
+
+.jumbotron {
+   font-family:"Didot",Georgia, Garamond, ‘Times New Roman’, Times, sans-serif;
+   font-size:15pt;
+   color:black;
+   text-shadow: 0px 0px 0px blue;
+   height: 530px;
+   
+} 
+
+.loginstyle {
+ height:300px;
+ width:350px;
+
+}
+
+
+
+.jumbotron.lead {
+	font-style:bold;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:black;
+
+}
+
+.discription {
+	background-color:#011f4b;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: white;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.avatar {
+	font-family:"Didot",Georgia, Garamond, ‘Times New Roman’, Times, sans-serif;
+	font-size:20pt;
+}
+
+.previewstyle {
+	padding-right:50px;
+}
+
+#bg {
+  position: fixed; 
+  top: 125px;
+  left:0; 
+  width:800px;
+  height:500px;
+}
+
+#bg2 {
+  position: fixed; 
+  top: 160px;
+  left:120px; 
+  width:400px;
+  height:400px;
+}
+
+#bg3 {
+  position: fixed; 
+  top: 160px;
+  left:120px; 
+  width:300px;
+  height:300px;
+}
+
+
+.formwidget {
+	padding-top:10px;
+	padding-bottom:10px;
+	width:800px;
+	padding-left:80px;
+	padding-right:80px;
+	margin:80px 20px 20px;
+	background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+    opacity: 0.9;
+    position: center;
+    color: #ffffff; 
+	border-color:#550085;
+}
+
+.forgotpasswordstyle {
+	padding-top:10px;
+	padding-bottom:10px;
+	width:600px;
+	height:400px;
+	padding-left:40px;
+	padding-right:100px;
+	margin:80px 20px 20px;
+	background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+    opacity: 0.9;
+    position: center;
+    color: #ffffff; 
+	border-color:#550085;
+}
+
+.resetpasswordstyle {
+	padding-top:30px;
+	padding-bottom:30px;
+	width:500px;
+	height:400px;
+	padding-left:80px;
+	padding-right:40px;
+	margin:80px 20px 20px;
+	background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+    opacity: 0.9;
+    position: center;
+    color: #ffffff; 
+	border-color:#550085;
+}
+
+.previewstyle {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color:#ddd8c3;
+	padding-top:20px;
+	padding-bottom:20px;
+	left:20px;
+	right:20px;
+	width:800px;
+	
+}
+
+.securedstyle {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color:#f0372d;
+	padding-top:20px;
+	padding-bottom:20px;
+	left:20px;
+	right:20px;
+	width:800px;
+	
+}
+
+.contentstyle {
+	
+}
+
